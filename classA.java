@@ -34,4 +34,7 @@ public class classA {
     public void MA2(){
         System.out.println("MA2");
     }
+    public void MA3(){
+        System.out.println("Classe A alterada a partir do clone");
+    }
 }
